@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="C:/Users/Josh/Desktop/Space Ship Game/json-20180813.jar"/>
+	<classpathentry kind="lib" path="C:\Users\dzul0\OneDrive\Escritorio\Space Ship Game episode 24_final\lib\json-20180813.jar"/>
+	<classpathentry kind="output" path="bin"/>
+	
+</classpath>

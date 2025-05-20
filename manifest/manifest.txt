@@ -1,0 +1,2 @@
+Main-Class: main.Window
+Class-Path: lib/json-20180813.jar
